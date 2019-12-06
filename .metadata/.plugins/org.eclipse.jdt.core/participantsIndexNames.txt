@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+/Users/mohitmalhotra/wks_jlg3_final/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/141527764.index
+/jlg3-spring-mvc-crud/src/main/resources
+/Users/mohitmalhotra/wks_jlg3_final/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/767848382.index
+/jlg3-spring-mvc-crud/src/main/resources

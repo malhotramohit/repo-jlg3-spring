@@ -1,0 +1,5 @@
+package edu.gs.crud.project.model;
+
+public class Customer {
+
+}
